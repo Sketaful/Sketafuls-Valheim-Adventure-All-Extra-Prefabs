@@ -1,0 +1,24 @@
+
+# Meados Weapons
+MeadowsAtgeir_RtD
+MeadowsAxe1H_RtD
+MeadowsAxe2H_RtD
+MeadowsBow_RtD
+MeadowsClub_RtD
+MeadowsDagger_RtD
+MeadowsSpear_RtD
+MeadowsSword1H_RtD
+MeadowsSword2H_RtD
+
+
+
+BlackForestAtgeir_RtD
+BlackForestAxe1H_RtD
+BlackForestAxe2H_RtD
+BlackForestBow_RtD
+BlackForestClub_RtD
+BlackForestDagger_RtD
+BlackForestSledge_RtD
+BlackForestSpear_RtD
+BlackForestSword1H_RtD
+BlackForestSword2H_RtD
