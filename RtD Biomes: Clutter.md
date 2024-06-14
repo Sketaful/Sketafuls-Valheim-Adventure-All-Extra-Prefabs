@@ -1,3 +1,5 @@
+    Meadows1_RtD
+    Meadows2_RtD
     Meadows3_RtD
     Mistlands1_RtD
     Mistlands2_RtD
@@ -14,8 +16,6 @@
     DesertGrass6_RtD
     NorthGrass1_RtD
     NorthGrass2_RtD
-    Meadows1_RtD
-    Meadows2_RtD
     WormWood_RtD
     MeadowsGrass1_RtD
     MeadowsGrass2_RtD
