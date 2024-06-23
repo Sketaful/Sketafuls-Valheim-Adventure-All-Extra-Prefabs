@@ -1,0 +1,7 @@
+BCP_ClayCollector
+BCP_Clay
+BCP_ClayPit
+BCP_ClayPit1
+BCP_Clay2_Roof45
+BCP_Clay2_Roof45_Corner
+BCP_Clay2_Roof45_Corner2
