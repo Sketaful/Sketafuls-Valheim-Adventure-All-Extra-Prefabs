@@ -1,0 +1,14 @@
+    DragonBoarRuinStone_RtD
+    DragonKingAltar_RtD
+    DrakeNest_RtD
+    GothicRuin1_RtD
+    GothicRuin2_RtD
+    NecromancerAltar_RtD
+    Vegvisir_Fader_RtD
+    Vegvisir_Necromancer_RtD
+    FaeRuins1_RtD
+    FaeRuins2_RtD
+    FaeSpawner_RtD
+    FaeTree_RtD
+    SpiritShrine_RtD
+    Vegvisir_Spirit_RtD
