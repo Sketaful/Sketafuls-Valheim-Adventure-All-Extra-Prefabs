@@ -1,200 +1,200 @@
 |Prefablist| |
 |--|--|
 |PREFAB|INGAME NAME|
-AcaciaSapling_RtD|Acacia Sapling"
-BlossomSapling_RtD|DogWood Sapling"
-CottonWoodSapling_RtD|CottonWood Sapling"
-MagicTreeSapling1_RtD|Magic Sapling"
-OakSapling_RtD|OakWood Sapling"
-PalmTreeSapling_RtD|Palm Sapling"
-RedPineSapling_RtD|RedPine Sapling"
-ThinPineSapling_RtD|GreenPine Sapling"
-WillowSapling_RtD|Willow Sapling"
-WinterPineSapling1_RtD|WinterPine Sapling"
-WinterPineSapling2_RtD|WinterPine Sapling"
-MapleSapling1_RtD|Maple Sapling"
-MapleSapling2_RtD|Maple Sapling"
-SkullTrapMeadows_RtD|ITS A TRAP"
-SkullTrapBlackForest_RtD|ITS A TRAP"
-SkullDesertwamp_RtD|ITS A TRAP"
-SkullTrapMountain_RtD|ITS A TRAP"
-SkullTrapPlains_RtD|ITS A TRAP"
-SkullTrapMistlands_RtD|ITS A TRAP"
-SkullTrapAshLands_RtD|ITS A TRAP"
-SkullTrapDeepNorth_RtD|ITS A TRAP"
-RuneStonePiece_RtD|Healing Runestone"
-AshLandsSaplingD1_RtD|Diseased Sapling"
-AshLandsSaplingD2_RtD|Diseased Sapling"
-AshLandsSaplingD3_RtD|Diseased Sapling"
-SwampSapling1_RtD|Diseased Sapling"
-SwampSapling2_RtD|Diseased Sapling"
-AshLandsBush1P_RtD|Diseased Plant"
-AshLandsBush2P_RtD|Diseased Plant"
-AshLandsBush3P_RtD|Cactus"
-AshLandsBush4P_RtD|Cactus"
-AshLandsBush5P_RtD|Diseased Plant"
-AshLandsBush6P_RtD|Diseased Plant"
-AshLandsBush7P_RtD|Diseased Plant"
-AshLandsBush8P_RtD|Diseased Plant"
-AshLandsBush9P_RtD|Diseased Plant"
-AshLandsBush10P_RtD|Diseased Plant"
-AshLandsBush11P_RtD|Diseased Plant"
-AshLandsBush12P_RtD|Diseased Plant"
-AshLandsBush13P_RtD|Diseased Plant"
-AshLandsBush14P_RtD|Diseased Plant"
-AshLandsBush15P_RtD|Diseased Plant"
-AshLandsBush16P_RtD|Diseased Plant"
-AshLandsBush17P_RtD|Cactus"
-AshLandsBush18P_RtD|Cactus"
-AshLandsBush19P_RtD|Cactus"
-AshLandsBush20P_RtD|Cactus"
-AshLandsBush21P_RtD|Cactus"
-AshLandsBush22P_RtD|Cactus"
-AshLandsBush23P_RtD|Cactus"
-AshLandsBush24P_RtD|Cactus"
-AshLandsBush25P_RtD|Cactus"
-AshLandsBush26P_RtD|Cactus"
-BlackForestBush1P_RtD|Flower"
-BlackForestBush2P_RtD|Flower"
-BlackForestBush3P_RtD|Bush"
-BlackForestBush4P_RtD|Bush"
-BlackForestBush5P_RtD|Bush"
-BlackForestBush6P_RtD|Burdock"
-BlackForestBush7P_RtD|Burdock"
-BlackForestBush8P_RtD|Burdock"
-BlackForestBush9P_RtD|EverGreen Bush"
-BlackForestBush10P_RtD|EverGreen Bush"
-BlackForestBush11P_RtD|EverGreen Bush"
-BlackForestBush12P_RtD|EverGreen Bush"
-DeepNorthBush1P_RtD|Wild Flower"
-DeepNorthBush2P_RtD|Wild Flower"
-DeepNorthBush3P_RtD|Wild Flower"
-DeepNorthBush4P_RtD|Wild Flower"
-DeepNorthBush5P_RtD|Wild Flower"
-DeepNorthBush6P_RtD|Wild Flower"
-DeepNorthBush7P_RtD|Wild Flower"
-DeepNorthBush8P_RtD|Wild Flower"
-DeepNorthBush9P_RtD|Wild Flower"
-DeepNorthBush10P_RtD|Wild Flower"
-MeadowsBush1P_RtD|Wild Flower"
-MeadowsBush2P_RtD|Wild Flower"
-MeadowsBush3P_RtD|Wild Flower"
-MeadowsBush4P_RtD|Wild Flower"
-MeadowsBush5P_RtD|Wild Flower"
-MeadowsBush01P_RtD|Plant"
-MeadowsBush02P_RtD|Plant"
-MeadowsBush03P_RtD|Plant"
-MeadowsBush04P_RtD|Plant"
-MeadowsBush05P_RtD|Plant"
-MeadowsBush06P_RtD|Plant"
-Sapling1P_RtD|Small Tree"
-Sapling2P_RtD|Small Tree"
-SmallBushP_RtD|Bush"
-MistLandsBush1P_RtD|Strange Plant"
-MistLandsBush2P_RtD|Strange Plant"
-MistLandsBush3P_RtD|Strange Plant"
-MistLandsBush4P_RtD|Strange Plant"
-MistLandsBush5P_RtD|Strange Plant"
-MistLandsBush6P_RtD|Wild Flower"
-MistLandsBush7P_RtD|Plant"
-EverGreen1P_RtD|EverGreen"
-EverGreen2P_RtD|EverGreen"
-EverGreen3P_RtD|EverGreen"
-EverGreen4P_RtD|EverGreen"
-MountainBush1P_RtD|Wild Flower"
-MountainBush2P_RtD|Wild Flower"
-MountainBush3P_RtD|Wild Flower"
-PlainsBush1P_RtD|CloudBerry Bush"
-PlainsBush2P_RtD|CloudBerry Bush"
-PlainsBush3P_RtD|CloudBerry Bush"
-PlainsBush4P_RtD|Bamboo"
-PlainsBush5P_RtD|Bamboo"
-PlainsBush6P_RtD|Bamboo"
-PlainsBush7P_RtD|Bamboo"
-PlainsBush8P_RtD|Bamboo"
-DeadIvy1P_RtD|Dead Ivy"
-DeadIvy2P_RtD|Dead Ivy"
-SwampBush1P_RtD|Rotting Plant"
-SwampBush2P_RtD|Rotting Plant"
-SwampBush3P_RtD|Wild Flower"
-SwampBush4P_RtD|Plant"
-SwampBush5P_RtD|Wild Flower"
-SwampBush6P_RtD|Wild Flower"
-SwampBush7P_RtD|Wild Flower"
-SwampBush8P_RtD|Plant"
-SwampBush9P_RtD|Plant"
-SwampBush10P_RtD|Plant"
-SwampBush11P_RtD|Plant"
-SwampBush12P_RtD|Dead Bush"
-SwampBush13P_RtD|Dead Bush"
-SwampBush14P_RtD|Dead Bush"
-BlackShroom1P_RtD|Mushroom"
-BlackShroom2P_RtD|Mushroom"
-BlackShroom3P_RtD|Mushroom"
-BlackShroom4P_RtD|Mushroom"
-BlueShroom1P_RtD|Mushroom"
-BlueShroom2P_RtD|Mushroom"
-BlueShroom3P_RtD|Mushroom"
-BlueShroom4P_RtD|Mushroom"
-GreenShroom1P_RtD|Mushroom"
-GreenShroom2P_RtD|Mushroom"
-GreenShroom3P_RtD|Mushroom"
-GreenShroom4P_RtD|Mushroom"
-MeadowsShroom1P_RtD|Mushroom"
-MeadowsShroom2P_RtD|Mushroom"
-MeadowsShroom3P_RtD|Mushroom"
-MeadowsShroom4P_RtD|Mushroom"
-MountainShroom1P_RtD|Mushroom"
-MountainShroom2P_RtD|Mushroom"
-MountainShroom3P_RtD|Mushroom"
-MountainShroom4P_RtD|Mushroom"
-RedShroom1P_RtD|Mushroom"
-RedShroom2P_RtD|Mushroom"
-RedShroom3P_RtD|Mushroom"
-RedShroom4P_RtD|Mushroom"
-YellowShroom1P_RtD|Mushroom"
-YellowShroom2P_RtD|Mushroom"
-YellowShroom3P_RtD|Mushroom"
-YellowShroom4P_RtD|Mushroom"
-CloudberryBush_RtD|Cloudberry Bush"
-GlowingMushroom_RtD|Glowing Mushroom"
-Pickable_Dandelion_RtD|Dandelion"
-Pickable_Mushroom_RtD|Mushroom"
-Pickable_Mushroom_yellow_RtD|Yellow Mushroom"
-Pickable_Thistle_RtD|Thistle"
-BlueberryBush_RtD|Blueberry Bush"
-Bush01_heath_RtD|Heath Bush"
-Bush01_RtD|Bush"
-Bush02_en_RtD|Bush"
-FirTree_small_dead_RtD|Dead Fir"
-RaspberryBush_RtD|Raspberry Bush"
-shrub_2_heath_RtD|Heath Shrub"
-shrub_2_RtD|Shrub"
-PlantSeedAshLands_RtD|AshLands Seed"
-PlantSeedAshLands_desc_RtD|A seed to plant all AshLands plants."
-PlantSeedBlackForest_RtD|BlackForest Seed"
-PlantSeedBlackForest_desc_RtD|A seed to plant all BlackForest plants."
-PlantSeedDeepNorth_RtD|DeepNorth Seed"
-PlantSeedDeepNorth_desc_RtD|A seed to plant all DeepNorth plants."
-PlantSeedMeadows_RtD|Meadows Seed"
-PlantSeedMeadows_desc_RtD|A seed to plant all Meadows plants."
-PlantSeedMistlands_RtD|Mistlands Seed"
-PlantSeedMistlands_desc_RtD|A seed to plant all Mistlands plants."
-PlantSeedMountain_RtD|Mountain Seed"
-PlantSeedMoutain_desc_RtD|A seed to plant all Mountain plants."
-PlantSeedPlains_RtD|Plains Seed"
-PlantSeedPlains_desc_RtD|A seed to plant all Plains plants."
-PlantSeedSwamp_RtD|Swamp Seed"
-PlantSeedSwamp_desc_RtD|A seed to plant all Swamp plants."
-Pickable_Flint_RtD|Pickable Flint"
-Pickable_Stone_RtD|Pickable Stone"
-RedFirSapling_RtD|Red Fir"
-RedFirSmallPlant_RtD|Red Fir"
-MapleSeed_RtD|Maple Seed"
-MapleSeed_desc|Used for planting"
-AshLandsSeed1_RtD|CinderSeed"
-AshLandsSeed1_desc_RtD|Used for planting"
-AshLandsSeed2_RtD|AshSeed"
-AshLandsSeed2_desc_RtD|Used for planting"
-MagicSeed1_RtD|Magic Seed"
+AcaciaSapling_RtD|Acacia Sapling
+BlossomSapling_RtD|DogWood Sapling
+CottonWoodSapling_RtD|CottonWood Sapling
+MagicTreeSapling1_RtD|Magic Sapling
+OakSapling_RtD|OakWood Sapling
+PalmTreeSapling_RtD|Palm Sapling
+RedPineSapling_RtD|RedPine Sapling
+ThinPineSapling_RtD|GreenPine Sapling
+WillowSapling_RtD|Willow Sapling
+WinterPineSapling1_RtD|WinterPine Sapling
+WinterPineSapling2_RtD|WinterPine Sapling
+MapleSapling1_RtD|Maple Sapling
+MapleSapling2_RtD|Maple Sapling
+SkullTrapMeadows_RtD|ITS A TRAP
+SkullTrapBlackForest_RtD|ITS A TRAP
+SkullDesertwamp_RtD|ITS A TRAP
+SkullTrapMountain_RtD|ITS A TRAP
+SkullTrapPlains_RtD|ITS A TRAP
+SkullTrapMistlands_RtD|ITS A TRAP
+SkullTrapAshLands_RtD|ITS A TRAP
+SkullTrapDeepNorth_RtD|ITS A TRAP
+RuneStonePiece_RtD|Healing Runestone
+AshLandsSaplingD1_RtD|Diseased Sapling
+AshLandsSaplingD2_RtD|Diseased Sapling
+AshLandsSaplingD3_RtD|Diseased Sapling
+SwampSapling1_RtD|Diseased Sapling
+SwampSapling2_RtD|Diseased Sapling
+AshLandsBush1P_RtD|Diseased Plant
+AshLandsBush2P_RtD|Diseased Plant
+AshLandsBush3P_RtD|Cactus
+AshLandsBush4P_RtD|Cactus
+AshLandsBush5P_RtD|Diseased Plant
+AshLandsBush6P_RtD|Diseased Plant
+AshLandsBush7P_RtD|Diseased Plant
+AshLandsBush8P_RtD|Diseased Plant
+AshLandsBush9P_RtD|Diseased Plant
+AshLandsBush10P_RtD|Diseased Plant
+AshLandsBush11P_RtD|Diseased Plant
+AshLandsBush12P_RtD|Diseased Plant
+AshLandsBush13P_RtD|Diseased Plant
+AshLandsBush14P_RtD|Diseased Plant
+AshLandsBush15P_RtD|Diseased Plant
+AshLandsBush16P_RtD|Diseased Plant
+AshLandsBush17P_RtD|Cactus
+AshLandsBush18P_RtD|Cactus
+AshLandsBush19P_RtD|Cactus
+AshLandsBush20P_RtD|Cactus
+AshLandsBush21P_RtD|Cactus
+AshLandsBush22P_RtD|Cactus
+AshLandsBush23P_RtD|Cactus
+AshLandsBush24P_RtD|Cactus
+AshLandsBush25P_RtD|Cactus
+AshLandsBush26P_RtD|Cactus
+BlackForestBush1P_RtD|Flower
+BlackForestBush2P_RtD|Flower
+BlackForestBush3P_RtD|Bush
+BlackForestBush4P_RtD|Bush
+BlackForestBush5P_RtD|Bush
+BlackForestBush6P_RtD|Burdock
+BlackForestBush7P_RtD|Burdock
+BlackForestBush8P_RtD|Burdock
+BlackForestBush9P_RtD|EverGreen Bush
+BlackForestBush10P_RtD|EverGreen Bush
+BlackForestBush11P_RtD|EverGreen Bush
+BlackForestBush12P_RtD|EverGreen Bush
+DeepNorthBush1P_RtD|Wild Flower
+DeepNorthBush2P_RtD|Wild Flower
+DeepNorthBush3P_RtD|Wild Flower
+DeepNorthBush4P_RtD|Wild Flower
+DeepNorthBush5P_RtD|Wild Flower
+DeepNorthBush6P_RtD|Wild Flower
+DeepNorthBush7P_RtD|Wild Flower
+DeepNorthBush8P_RtD|Wild Flower
+DeepNorthBush9P_RtD|Wild Flower
+DeepNorthBush10P_RtD|Wild Flower
+MeadowsBush1P_RtD|Wild Flower
+MeadowsBush2P_RtD|Wild Flower
+MeadowsBush3P_RtD|Wild Flower
+MeadowsBush4P_RtD|Wild Flower
+MeadowsBush5P_RtD|Wild Flower
+MeadowsBush01P_RtD|Plant
+MeadowsBush02P_RtD|Plant
+MeadowsBush03P_RtD|Plant
+MeadowsBush04P_RtD|Plant
+MeadowsBush05P_RtD|Plant
+MeadowsBush06P_RtD|Plant
+Sapling1P_RtD|Small Tree
+Sapling2P_RtD|Small Tree
+SmallBushP_RtD|Bush
+MistLandsBush1P_RtD|Strange Plant
+MistLandsBush2P_RtD|Strange Plant
+MistLandsBush3P_RtD|Strange Plant
+MistLandsBush4P_RtD|Strange Plant
+MistLandsBush5P_RtD|Strange Plant
+MistLandsBush6P_RtD|Wild Flower
+MistLandsBush7P_RtD|Plant
+EverGreen1P_RtD|EverGreen
+EverGreen2P_RtD|EverGreen
+EverGreen3P_RtD|EverGreen
+EverGreen4P_RtD|EverGreen
+MountainBush1P_RtD|Wild Flower
+MountainBush2P_RtD|Wild Flower
+MountainBush3P_RtD|Wild Flower
+PlainsBush1P_RtD|CloudBerry Bush
+PlainsBush2P_RtD|CloudBerry Bush
+PlainsBush3P_RtD|CloudBerry Bush
+PlainsBush4P_RtD|Bamboo
+PlainsBush5P_RtD|Bamboo
+PlainsBush6P_RtD|Bamboo
+PlainsBush7P_RtD|Bamboo
+PlainsBush8P_RtD|Bamboo
+DeadIvy1P_RtD|Dead Ivy
+DeadIvy2P_RtD|Dead Ivy
+SwampBush1P_RtD|Rotting Plant
+SwampBush2P_RtD|Rotting Plant
+SwampBush3P_RtD|Wild Flower
+SwampBush4P_RtD|Plant
+SwampBush5P_RtD|Wild Flower
+SwampBush6P_RtD|Wild Flower
+SwampBush7P_RtD|Wild Flower
+SwampBush8P_RtD|Plant
+SwampBush9P_RtD|Plant
+SwampBush10P_RtD|Plant
+SwampBush11P_RtD|Plant
+SwampBush12P_RtD|Dead Bush
+SwampBush13P_RtD|Dead Bush
+SwampBush14P_RtD|Dead Bush
+BlackShroom1P_RtD|Mushroom
+BlackShroom2P_RtD|Mushroom
+BlackShroom3P_RtD|Mushroom
+BlackShroom4P_RtD|Mushroom
+BlueShroom1P_RtD|Mushroom
+BlueShroom2P_RtD|Mushroom
+BlueShroom3P_RtD|Mushroom
+BlueShroom4P_RtD|Mushroom
+GreenShroom1P_RtD|Mushroom
+GreenShroom2P_RtD|Mushroom
+GreenShroom3P_RtD|Mushroom
+GreenShroom4P_RtD|Mushroom
+MeadowsShroom1P_RtD|Mushroom
+MeadowsShroom2P_RtD|Mushroom
+MeadowsShroom3P_RtD|Mushroom
+MeadowsShroom4P_RtD|Mushroom
+MountainShroom1P_RtD|Mushroom
+MountainShroom2P_RtD|Mushroom
+MountainShroom3P_RtD|Mushroom
+MountainShroom4P_RtD|Mushroom
+RedShroom1P_RtD|Mushroom
+RedShroom2P_RtD|Mushroom
+RedShroom3P_RtD|Mushroom
+RedShroom4P_RtD|Mushroom
+YellowShroom1P_RtD|Mushroom
+YellowShroom2P_RtD|Mushroom
+YellowShroom3P_RtD|Mushroom
+YellowShroom4P_RtD|Mushroom
+CloudberryBush_RtD|Cloudberry Bush
+GlowingMushroom_RtD|Glowing Mushroom
+Pickable_Dandelion_RtD|Dandelion
+Pickable_Mushroom_RtD|Mushroom
+Pickable_Mushroom_yellow_RtD|Yellow Mushroom
+Pickable_Thistle_RtD|Thistle
+BlueberryBush_RtD|Blueberry Bush
+Bush01_heath_RtD|Heath Bush
+Bush01_RtD|Bush
+Bush02_en_RtD|Bush
+FirTree_small_dead_RtD|Dead Fir
+RaspberryBush_RtD|Raspberry Bush
+shrub_2_heath_RtD|Heath Shrub
+shrub_2_RtD|Shrub
+PlantSeedAshLands_RtD|AshLands Seed
+PlantSeedAshLands_desc_RtD|A seed to plant all AshLands plants.
+PlantSeedBlackForest_RtD|BlackForest Seed
+PlantSeedBlackForest_desc_RtD|A seed to plant all BlackForest plants.
+PlantSeedDeepNorth_RtD|DeepNorth Seed
+PlantSeedDeepNorth_desc_RtD|A seed to plant all DeepNorth plants.
+PlantSeedMeadows_RtD|Meadows Seed
+PlantSeedMeadows_desc_RtD|A seed to plant all Meadows plants.
+PlantSeedMistlands_RtD|Mistlands Seed
+PlantSeedMistlands_desc_RtD|A seed to plant all Mistlands plants.
+PlantSeedMountain_RtD|Mountain Seed
+PlantSeedMoutain_desc_RtD|A seed to plant all Mountain plants.
+PlantSeedPlains_RtD|Plains Seed
+PlantSeedPlains_desc_RtD|A seed to plant all Plains plants.
+PlantSeedSwamp_RtD|Swamp Seed
+PlantSeedSwamp_desc_RtD|A seed to plant all Swamp plants.
+Pickable_Flint_RtD|Pickable Flint
+Pickable_Stone_RtD|Pickable Stone
+RedFirSapling_RtD|Red Fir
+RedFirSmallPlant_RtD|Red Fir
+MapleSeed_RtD|Maple Seed
+MapleSeed_desc|Used for planting
+AshLandsSeed1_RtD|CinderSeed
+AshLandsSeed1_desc_RtD|Used for planting
+AshLandsSeed2_RtD|AshSeed
+AshLandsSeed2_desc_RtD|Used for planting
+MagicSeed1_RtD|Magic Seed
 MagicSeed1_desc_RtD|Used to plant Magic Trees" }
