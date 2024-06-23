@@ -1,0 +1,12 @@
+    MeadowsAltar_RtD
+    BlackForestAltar_RtD
+    SwampAltar_RtD
+    MountainAltar_RtD
+    PlainsAltar_RtD
+    MistlandsAltar_RtD
+    VegvisirMeadows_RtD
+    VegvisirBlackForest_RtD
+    VegvisirSwamp_RtD
+    VegvisirMountain_RtD
+    VegvisirPlains_RtD
+    VegvisirMistlands_RtD
