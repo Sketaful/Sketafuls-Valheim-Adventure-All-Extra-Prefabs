@@ -8,7 +8,7 @@
     BCP_ClayCollector
 
     BFP_FineHammer
-    BFP_Straw)
+    BFP_Straw
     BFP_FineHammerRepair
     BFP_FineHammer
     BCP_ClayCollector
