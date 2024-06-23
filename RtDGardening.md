@@ -1,6 +1,6 @@
-|Prefablist| |
-|--|--|
 |PREFAB|INGAME NAME|
+|--|--|
+|||
 AcaciaSapling_RtD|Acacia Sapling
 BlossomSapling_RtD|DogWood Sapling
 CottonWoodSapling_RtD|CottonWood Sapling
