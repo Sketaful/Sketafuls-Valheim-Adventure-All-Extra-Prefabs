@@ -1,0 +1,11 @@
+    RuneAlgiz_TW
+    RuneBer_TW
+    RuneDagaz_TW
+    RuneEihwaz_TW
+    RuneFehu_TW
+    RuneJara_TW
+    RuneMannaz_TW
+    RuneOthala_TW
+    RunePerth_TW
+    RuneRaidho_TW
+    RuneThurisaz_TW
