@@ -1,3 +1,14 @@
+    Stag: Movement speed and jump distance
+    Razorback: Atgeir and Spear skill + stamina regeneration
+    Hunter: Pierce damage and Bow/Xbow skill
+    Rogue: Knife damage and skill
+    Vigorous: Axe damage and skill
+    Warrior: Club damage and skill
+    Fenrir: Unarmed damage and skill
+    Vidar: Sword damage and skill
+    Bold: Atgeir damage and skill
+    Legion: Spear damage and skill
+    
     HelmetLeather_TW
     ArmorLeatherChest_TW
     ArmorLeatherLegs_TW
