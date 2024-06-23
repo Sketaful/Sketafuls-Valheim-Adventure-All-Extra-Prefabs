@@ -1,10 +1,12 @@
 Arrows
+
     ArrowPickaxe_TW
     ArrowBone_TW
     ArrowExplosiveLightning_TW
     ArrowExplosivePoison_TW
 
 Bolts
+
     BoltWood_TW
     BoltAntler_TW
     BoltBronze_TW
