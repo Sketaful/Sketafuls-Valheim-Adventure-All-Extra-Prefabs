@@ -1,0 +1,22 @@
+    stone_stair_corner  
+    wood_finerstepladder  
+    roof_darkwood_26_right  
+    roof_darkwood_26_left  
+    roof_darkwood_45_right  
+    roof_darkwood_45_left  
+    wood_stair_1m  
+    stone_wall_1x1_triangular  
+    stone_wall_2x1_triangular  
+    roof_wood_26_right  
+    roof_wood_26_left  
+    roof_wood_45_right  
+    roof_wood_45_left  
+    wood_floor_triangular1  
+    wood_floor_triangular2  
+    stone_floor_1x1  
+    piece_chest_wooden_drawer  
+    wood_wall_half_upper  
+    wood_wall_quarter_upper  
+    roof_wood_2m  
+    roof_darkwood_2m  
+    
