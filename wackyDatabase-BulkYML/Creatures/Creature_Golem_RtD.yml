@@ -1,0 +1,4 @@
+name: Golem_RtD
+mob_display_name: $Golem_RtD
+clone_creature: 
+creature_replacer: 

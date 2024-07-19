@@ -1,0 +1,16 @@
+name: VC_UncookedOvernightBroth_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_ChoppedMeat:1:0:True
+- MushroomMagecap:3:0:True
+- Turnip:3:0:True
+- VC_CloudberryAle:1:0:True

@@ -1,0 +1,4 @@
+name: SA_BlacktipShark
+mob_display_name: $enemy_blacktipshark
+clone_creature: 
+creature_replacer: 

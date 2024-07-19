@@ -1,0 +1,16 @@
+name: Recipe_rk_burger
+clonePrefabName: NO
+craftingStation: Grill
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- RawMeat:2:0:False
+- LoxMeat:2:0:False
+- Turnip:2:0:False
+- Bread:1:0:False

@@ -1,0 +1,4 @@
+name: MeadowsHorror_RtD
+mob_display_name: $MutantMonster_RtD
+clone_creature: 
+creature_replacer: 

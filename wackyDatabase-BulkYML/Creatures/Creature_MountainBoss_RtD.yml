@@ -1,0 +1,4 @@
+name: MountainBoss_RtD
+mob_display_name: $MountainBoss_RtD
+clone_creature: 
+creature_replacer: 

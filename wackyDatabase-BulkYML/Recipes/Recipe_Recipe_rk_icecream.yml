@@ -1,0 +1,16 @@
+name: Recipe_rk_icecream
+clonePrefabName: NO
+craftingStation: Prep Table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FreezeGland:4:0:False
+- Blueberries:8:0:False
+- Honey:2:0:False
+- rk_dragonegg:1:0:False

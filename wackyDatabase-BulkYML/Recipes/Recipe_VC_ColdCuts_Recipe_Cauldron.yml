@@ -1,0 +1,16 @@
+name: VC_ColdCuts_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 6
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BoarJerky:2:0:True
+- VC_Morrpolse:1:0:True
+- VC_WolfSalami:1:0:True
+- VC_LoxCheese:1:0:True

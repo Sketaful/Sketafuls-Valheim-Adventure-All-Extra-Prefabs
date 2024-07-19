@@ -1,0 +1,16 @@
+name: Recipe_rk_birthday
+clonePrefabName: NO
+craftingStation: Grill
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BarleyFlour:2:0:False
+- Honey:4:0:False
+- Cloudberry:4:0:False
+- rk_egg:2:0:False

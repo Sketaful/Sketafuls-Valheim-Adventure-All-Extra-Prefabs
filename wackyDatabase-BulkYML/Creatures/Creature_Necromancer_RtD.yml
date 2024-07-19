@@ -1,0 +1,4 @@
+name: Necromancer_RtD
+mob_display_name: $Necromancer_RtD
+clone_creature: 
+creature_replacer: 

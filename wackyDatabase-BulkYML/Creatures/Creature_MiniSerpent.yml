@@ -1,0 +1,4 @@
+name: MiniSerpent
+mob_display_name: Mini $enemy_serpent
+clone_creature: 
+creature_replacer: 

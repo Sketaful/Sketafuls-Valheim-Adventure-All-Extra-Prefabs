@@ -1,0 +1,4 @@
+name: SA_Crocodile
+mob_display_name: $enemy_crocodile
+clone_creature: 
+creature_replacer: 

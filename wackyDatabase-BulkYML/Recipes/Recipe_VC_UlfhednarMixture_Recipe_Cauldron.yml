@@ -1,0 +1,16 @@
+name: VC_UlfhednarMixture_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FreezeGland:4:0:True
+- Ooze:4:0:True
+- WolfHairBundle:6:0:True
+- TrophyFenring:1:0:True

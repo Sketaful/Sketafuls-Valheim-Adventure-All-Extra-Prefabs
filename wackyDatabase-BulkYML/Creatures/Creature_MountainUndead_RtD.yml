@@ -1,0 +1,4 @@
+name: MountainUndead_RtD
+mob_display_name: $MountainUndead_RtD
+clone_creature: 
+creature_replacer: 

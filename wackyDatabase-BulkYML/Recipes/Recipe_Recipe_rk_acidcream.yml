@@ -1,0 +1,16 @@
+name: Recipe_rk_acidcream
+clonePrefabName: NO
+craftingStation: Prep Table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Guck:4:0:False
+- MushroomYellow:8:0:False
+- Honey:2:0:False
+- rk_dragonegg:2:0:False

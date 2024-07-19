@@ -1,0 +1,16 @@
+name: VC_LyngbakrChowder_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_Barnacles:12:0:True
+- Fish9:1:0:True
+- VC_SauteMushrooms:1:0:True
+- VC_LoxMilk:1:0:True

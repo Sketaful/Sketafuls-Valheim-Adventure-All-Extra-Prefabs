@@ -1,0 +1,16 @@
+name: VC_HerbalRemedyBase_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Pukeberries:10:0:True
+- Thistle:4:0:True
+- Dandelion:8:0:True
+- Resin:2:0:True

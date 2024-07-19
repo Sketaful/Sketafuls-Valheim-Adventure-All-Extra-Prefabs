@@ -1,0 +1,16 @@
+name: VC_HermodrWaterskin_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_vc_eldhrimnir
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Tar:6:0:True
+- MeadStaminaMedium:1:0:True
+- TrophyWolf:1:0:True
+- VC_AndySolution:2:0:True

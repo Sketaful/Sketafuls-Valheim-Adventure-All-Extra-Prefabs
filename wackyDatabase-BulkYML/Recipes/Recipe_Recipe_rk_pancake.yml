@@ -1,0 +1,16 @@
+name: Recipe_rk_pancake
+clonePrefabName: NO
+craftingStation: Grill
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Honey:2:0:False
+- BarleyFlour:3:0:False
+- rk_butter:5:0:False
+- rk_egg:2:0:False

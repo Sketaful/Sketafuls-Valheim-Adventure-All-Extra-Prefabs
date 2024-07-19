@@ -1,0 +1,16 @@
+name: VC_AlfablotStew_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_ChoppedMeat:1:0:True
+- VC_VegetableSoup:1:0:True
+- Dandelion:1:0:True
+- VC_Blaand:1:0:True

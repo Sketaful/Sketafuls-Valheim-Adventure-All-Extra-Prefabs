@@ -1,0 +1,4 @@
+name: DragonBoar_RtD
+mob_display_name: $DragonBoar_RtD
+clone_creature: 
+creature_replacer: 

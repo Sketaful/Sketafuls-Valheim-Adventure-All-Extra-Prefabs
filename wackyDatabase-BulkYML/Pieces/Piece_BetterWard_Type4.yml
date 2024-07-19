@@ -1,0 +1,58 @@
+name: BetterWard_Type4
+piecehammer: Hammer
+m_name: $piece_betterward4
+sizeMultiplier: 1
+m_description: $piece_betterward_description4
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_stonecutter
+piecehammerCategory: Misc
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 1000
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Ignore
+    m_pickaxe: Ignore
+    m_fire: Normal
+    m_frost: Resistant
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: false
+  supports: false
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+build:
+- Silver:15:1:False
+- SurtlingCore:30:1:False
+- DragonEgg:1:1:False
+- FreezeGland:1:1:False

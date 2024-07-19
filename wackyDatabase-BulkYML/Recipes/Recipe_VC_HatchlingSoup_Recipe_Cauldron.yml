@@ -1,0 +1,14 @@
+name: VC_HatchlingSoup_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophyHatchling:1:0:True
+- Onion:1:0:True

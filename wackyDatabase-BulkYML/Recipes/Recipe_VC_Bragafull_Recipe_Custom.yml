@@ -1,0 +1,16 @@
+name: VC_Bragafull_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_vc_eldhrimnir
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- YagluthDrop:2:0:True
+- YmirRemains:6:0:True
+- TrophyBonemawSerpent:1:0:True
+- VC_AndySolution:6:0:True

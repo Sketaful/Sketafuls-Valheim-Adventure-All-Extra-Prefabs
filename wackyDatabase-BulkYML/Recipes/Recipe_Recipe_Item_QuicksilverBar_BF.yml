@@ -1,0 +1,15 @@
+name: Recipe_Item_QuicksilverBar_BF
+clonePrefabName: NO
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Obsidian:1:0:False
+- Silver:1:0:False
+- Item_OrichalcumBar_BF:1:0:False

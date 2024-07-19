@@ -1,0 +1,14 @@
+name: VC_PickledVeggies_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_ChoppedVeggies:2:0:True
+- Ooze:1:0:True

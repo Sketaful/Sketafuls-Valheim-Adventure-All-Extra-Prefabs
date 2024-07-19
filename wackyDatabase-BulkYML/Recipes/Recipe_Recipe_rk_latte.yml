@@ -1,0 +1,15 @@
+name: Recipe_rk_latte
+clonePrefabName: NO
+craftingStation: Prep Table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Crystal:2:0:False
+- Barley:2:0:False
+- Honey:10:0:False

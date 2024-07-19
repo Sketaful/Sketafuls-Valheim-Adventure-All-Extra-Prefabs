@@ -1,0 +1,16 @@
+name: VC_Morrpolse_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 6
+maxStationLevelCap: 
+repairStation: 
+amount: 4
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- MorgenHeart:1:0:True
+- MorgenSinew:2:0:True
+- Entrails:4:0:True
+- Thistle:2:0:True

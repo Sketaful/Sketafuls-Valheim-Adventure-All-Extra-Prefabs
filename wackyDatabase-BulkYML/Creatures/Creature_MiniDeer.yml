@@ -1,0 +1,4 @@
+name: MiniDeer
+mob_display_name: Mini $enemy_deer
+clone_creature: 
+creature_replacer: 

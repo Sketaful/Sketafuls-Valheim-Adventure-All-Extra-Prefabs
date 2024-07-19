@@ -1,0 +1,16 @@
+name: VC_GroaElixir_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Tar:3:0:True
+- BoneFragments:6:0:True
+- TrophySkeletonPoison:1:0:True
+- VC_CloudberryAle:1:0:True

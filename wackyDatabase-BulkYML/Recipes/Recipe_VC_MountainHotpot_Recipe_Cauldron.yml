@@ -1,0 +1,16 @@
+name: VC_MountainHotpot_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- WolfMeat:1:0:True
+- VC_ChoppedVeggies:1:0:True
+- WolfHairBundle:1:0:True
+- VC_BoneMeal:2:0:True

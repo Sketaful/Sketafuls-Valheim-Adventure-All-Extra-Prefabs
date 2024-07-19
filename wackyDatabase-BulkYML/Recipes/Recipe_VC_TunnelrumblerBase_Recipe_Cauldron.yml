@@ -1,0 +1,16 @@
+name: VC_TunnelrumblerBase_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_DvergrMead:1:0:True
+- GiantBloodSack:6:0:True
+- RoyalJelly:6:0:True
+- YmirRemains:6:0:True

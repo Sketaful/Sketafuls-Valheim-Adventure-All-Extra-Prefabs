@@ -1,0 +1,16 @@
+name: VC_WolfSalami_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 6
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Entrails:6:0:True
+- WolfMeat:2:0:True
+- Thistle:2:0:True
+- FreezeGland:1:0:True

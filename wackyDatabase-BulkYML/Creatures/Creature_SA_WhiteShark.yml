@@ -1,0 +1,4 @@
+name: SA_WhiteShark
+mob_display_name: $enemy_whiteshark
+clone_creature: 
+creature_replacer: 

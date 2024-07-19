@@ -1,0 +1,16 @@
+name: VC_AndySolution_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_vc_eldhrimnir
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 10
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Bloodbag:5:0:True
+- GreydwarfEye:5:0:True
+- VC_BoneMeal:5:0:True
+- VC_Ectoplasm:2:0:True

@@ -1,0 +1,14 @@
+name: Recipe_rk_carrotsticks
+clonePrefabName: NO
+craftingStation: Prep Table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Carrot:2:0:False
+- rk_nut_ella:1:0:False

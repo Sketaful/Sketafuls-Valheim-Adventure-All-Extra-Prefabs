@@ -1,0 +1,16 @@
+name: VC_Blodplattar_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- GiantBloodSack:2:0:True
+- BarleyFlour:4:0:True
+- Honey:2:0:True
+- Blueberries:6:0:True

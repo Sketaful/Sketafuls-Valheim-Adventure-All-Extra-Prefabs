@@ -1,0 +1,16 @@
+name: VC_RedbeardStew_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 5
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_ChoppedExoticMeat:1:0:True
+- VC_ChoppedVeggies:1:0:True
+- Eitr:2:0:True
+- ProustitePowder:5:0:True

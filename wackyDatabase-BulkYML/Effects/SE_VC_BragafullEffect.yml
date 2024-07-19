@@ -1,0 +1,74 @@
+Name: VC_BragafullEffect
+Status_m_name: $item_vc_bragafull
+Category: ''
+IconName: VC_Bragafull
+ClonedSE: 
+CustomIcon: 
+FlashIcon: false
+CooldownIcon: true
+Tooltip: ''
+Attributes: None
+StartMessageLoc: TopLeft
+StartMessage: ''
+StopMessageLoc: TopLeft
+StopMessage: ''
+RepeatMessageLoc: TopLeft
+RepeatMessage: ''
+RepeatInterval: 0
+TimeToLive: 300
+StartEffect_: 
+StopEffect_: 
+StartEffect_PLUS: []
+StopEffect_PLUS: []
+Cooldown: 0
+ActivationAnimation: gpower
+SeData:
+  m_tickInterval: 0
+  m_healthPerTickMinHealthPercentage: 0
+  m_healthPerTick: 0
+  m_healthOverTime: 0
+  m_healthOverTimeDuration: 0
+  m_healthOverTimeInterval: 0
+  m_staminaOverTime: 0
+  m_staminaOverTimeDuration: 0
+  m_staminaDrainPerSec: 0
+  m_runStaminaDrainModifier: 0
+  m_jumpStaminaUseModifier: 0
+  m_eitrOverTime: 0
+  m_eitrOverTimeDuration: 0
+  m_healthRegenMultiplier: 1
+  m_staminaRegenMultiplier: 1
+  m_eitrRegenMultiplier: 1
+  m_raiseSkill: None
+  m_raiseSkillModifier: 0
+  m_skillLevel: None
+  m_skillLevelModifier: 0
+  m_skillLevel2: None
+  m_skillLevelModifier2: 0
+  m_mods: []
+  m_modifyAttackSkill: None
+  m_damageModifier: 1.2
+  m_noiseModifier: 0
+  m_stealthModifier: 0
+  m_addMaxCarryWeight: 0
+  m_speedModifier: 0.05
+  m_jumpModifier:
+    x: 0.2
+    y: 0.2
+    z: 0.2
+    normalized: &o0
+      x: 0.5773503
+      y: 0.5773503
+      z: 0.5773503
+      normalized: *o0
+      magnitude: 1
+      sqrMagnitude: 0.9999999
+    magnitude: 0.3464102
+    sqrMagnitude: 0.12
+  m_maxMaxFallSpeed: 0
+  m_fallDamageModifier: -1
+  m_tickTimer: 0
+  m_healthOverTimeTimer: 0
+  m_healthOverTimeTicks: 0
+  m_healthOverTimeTickHP: 0
+SeShield: 

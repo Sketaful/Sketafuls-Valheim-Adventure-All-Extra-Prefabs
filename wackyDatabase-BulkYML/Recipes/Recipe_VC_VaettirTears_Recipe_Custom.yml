@@ -1,0 +1,16 @@
+name: VC_VaettirTears_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_vc_eldhrimnir
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Bloodbag:6:0:True
+- MeadFrostResist:1:0:True
+- TrophyCultist_Hildir:1:0:True
+- VC_AndySolution:4:0:True

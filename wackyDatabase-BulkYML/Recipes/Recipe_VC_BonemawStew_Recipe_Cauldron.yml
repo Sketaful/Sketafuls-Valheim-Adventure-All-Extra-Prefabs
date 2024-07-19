@@ -1,0 +1,15 @@
+name: VC_BonemawStew_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 6
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CookedBoneMawSerpentMeat:1:0:True
+- MushroomSmokePuff:1:0:True
+- Honey:2:0:True

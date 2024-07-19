@@ -1,0 +1,4 @@
+name: SA_LittleOrca
+mob_display_name: $enemy_littleorca
+clone_creature: 
+creature_replacer: 

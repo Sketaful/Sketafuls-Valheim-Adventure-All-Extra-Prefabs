@@ -1,0 +1,4 @@
+name: SA_RedTurtle
+mob_display_name: $enemy_redturtle
+clone_creature: 
+creature_replacer: 

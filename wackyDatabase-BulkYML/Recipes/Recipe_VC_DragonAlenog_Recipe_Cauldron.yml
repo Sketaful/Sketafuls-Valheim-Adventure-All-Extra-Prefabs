@@ -1,0 +1,16 @@
+name: VC_DragonAlenog_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 4
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- DragonEgg:1:0:True
+- Honey:4:0:True
+- VC_LoxMilk:2:0:True
+- VC_VineberryAle:2:0:True

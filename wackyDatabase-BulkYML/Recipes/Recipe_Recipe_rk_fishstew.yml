@@ -1,0 +1,16 @@
+name: Recipe_rk_fishstew
+clonePrefabName: NO
+craftingStation: Prep Table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- rk_broth:1:0:False
+- FishRaw:2:0:False
+- Thistle:2:0:False
+- rk_egg:2:0:False

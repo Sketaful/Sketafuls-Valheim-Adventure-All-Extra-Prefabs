@@ -1,0 +1,16 @@
+name: VC_BeastmasterBlaandBase_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Honey:5:0:True
+- Ooze:2:0:True
+- TrophyLox:1:0:True
+- VC_LoxMilk:2:0:True

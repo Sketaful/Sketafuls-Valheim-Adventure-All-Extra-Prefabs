@@ -1,0 +1,16 @@
+name: Recipe_rk_bloodsausage
+clonePrefabName: NO
+craftingStation: Grill
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 2
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Entrails:2:0:False
+- Bloodbag:1:0:False
+- Thistle:2:0:False
+- rk_pork:2:0:False

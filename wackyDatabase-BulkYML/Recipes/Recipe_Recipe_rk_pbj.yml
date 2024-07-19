@@ -1,0 +1,15 @@
+name: Recipe_rk_pbj
+clonePrefabName: NO
+craftingStation: Grill
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 4
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Bread:1:0:False
+- QueensJam:1:0:False
+- rk_nut_ella:4:0:False

@@ -1,0 +1,16 @@
+name: VC_EldthursarSteak_Recipe_Custom
+clonePrefabName: NO
+craftingStation: $piece_vc_eldhrimnir
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- AsksvinMeat:2:0:True
+- Vineberry:6:0:True
+- MeadHealthLingering:1:0:True
+- VC_AndySeasoning:8:0:True

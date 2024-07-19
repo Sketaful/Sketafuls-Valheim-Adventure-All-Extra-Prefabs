@@ -1,0 +1,15 @@
+name: Recipe_Item_BrightsteelBar_BF
+clonePrefabName: NO
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Guck:1:0:False
+- Iron:1:0:False
+- Item_MoonironBar_BF:1:0:False

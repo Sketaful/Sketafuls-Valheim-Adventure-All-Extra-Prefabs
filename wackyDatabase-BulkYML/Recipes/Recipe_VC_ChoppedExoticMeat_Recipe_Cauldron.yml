@@ -1,0 +1,16 @@
+name: VC_ChoppedExoticMeat_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 4
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_TrollMeat:1:0:True
+- BugMeat:1:0:True
+- HareMeat:1:0:True
+- AsksvinMeat:1:0:True

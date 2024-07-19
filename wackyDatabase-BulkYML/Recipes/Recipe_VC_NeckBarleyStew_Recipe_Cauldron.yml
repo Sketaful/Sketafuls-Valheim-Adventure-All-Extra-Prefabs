@@ -1,0 +1,16 @@
+name: VC_NeckBarleyStew_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- NeckTail:2:0:True
+- Barley:2:0:True
+- Onion:1:0:True
+- Thistle:1:0:True

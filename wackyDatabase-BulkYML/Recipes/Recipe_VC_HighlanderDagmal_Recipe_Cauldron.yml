@@ -1,0 +1,16 @@
+name: VC_HighlanderDagmal_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 6
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_SalmonChowder:1:0:True
+- VC_Lefse:1:0:True
+- VC_Rakfisk:1:0:True
+- MeadStaminaMedium:1:0:True

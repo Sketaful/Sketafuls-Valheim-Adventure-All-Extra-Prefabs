@@ -1,0 +1,15 @@
+name: VC_VarangianDagmal_Recipe_Cauldron
+clonePrefabName: NO
+craftingStation: $piece_cauldron
+minStationLevel: 6
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- VC_VarangianStew:1:0:True
+- VC_Hakarl:1:0:True
+- VC_Blaand:1:0:True

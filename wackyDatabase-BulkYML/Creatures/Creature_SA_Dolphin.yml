@@ -1,0 +1,4 @@
+name: SA_Dolphin
+mob_display_name: $enemy_dolphin
+clone_creature: 
+creature_replacer: 
